@@ -1,0 +1,22 @@
+{
+  "name": "Demo.Angular",
+  "version": "1.0.0",
+  "homepage": "https://github.com/toddmeinershagen/Demo.Angular",
+  "authors": [
+    "Todd Meinershagen <todd@meinershagen.net>"
+  ],
+  "description": "A demo project demonstrating the use of AngularJS and Protractor",
+  "license": "Apache",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "bootstrap": "~3.1.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
